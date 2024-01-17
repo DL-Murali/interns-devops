@@ -14,36 +14,36 @@
 ## 4. SonarQube & Nexus
 - Sonar Analysis
 - Nexus Artifacts
-## 4. LMS EC2 Deployment
+## 5. LMS EC2 Deployment
 - Application Stack
 - Database Deployment
 - Backend Deployment
 - Frontend Deployment
-## 5. Docker 
+## 6. Docker 
 - Dockerfile
 - Docker networks
 - Dockerizing LMS
 - Docker Volumes
-## 6. Kubernetes
+## 7. Kubernetes
 - LMS Minikube Deployment
 - LMS EKS Deployment
 - Kubernetes Workspaces
-## 7. Terraform
+## 8. Terraform
 - EC2 Launch with Terraform
 - VPC Creation
 - LMS Deployment with Terraform
 - Terraform Cloud
-## 8. Ansible
+## 9. Ansible
 - Ansible Modules
 - Ad-hoc commands
 - Ansible Inventory
 - Play Books
-## 9. Jenkins
+## 10. Jenkins
 - Jenkins Setup
 - Jobs
 - Build Triggers
 - Jenkins Pipeline
-## 10. SRE
+## 11. SRE
 - Prometheus
 - Grafana
 - Node Exporter
