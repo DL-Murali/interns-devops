@@ -14,6 +14,11 @@
 ## 4. SonarQube & Nexus
 - Sonar Analysis
 - Nexus Artifacts
+## Atlassian Products
+- Jira Boards - Planning and Ticketing
+- BitBucket - VCS [ code storage]
+- Confluence - Project Documentaion
+- ChatGPT - AI tool usage 
 ## 5. LMS EC2 Deployment
 - Application Stack
 - Database Deployment
