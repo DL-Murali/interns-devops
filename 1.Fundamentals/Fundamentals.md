@@ -1,4 +1,4 @@
-# **SDLC**
+# **SDLC - ALM**
 ![image](https://miro.medium.com/v2/resize:fit:925/0*wO81Bodh1Ifqdse8.png)
 
 ## Waterfall Methodology
