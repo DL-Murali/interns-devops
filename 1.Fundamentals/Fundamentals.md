@@ -23,4 +23,4 @@
 
 --------------------------------------------------------------------------------------------
 # **DevOps**
-![image](https://github.com/DL-Murali/DevOps/assets/151819037/dab6c6af-d512-4930-b9d8-4f74bbaf4206)
+![image](https://media.licdn.com/dms/image/C5612AQEaEQMrHlZIdA/article-cover_image-shrink_600_2000/0/1649826988602?e=2147483647&v=beta&t=1EJAjcjTW_wBZcV_SefFyETKCYOveAKxAutgRdPpMcY)
