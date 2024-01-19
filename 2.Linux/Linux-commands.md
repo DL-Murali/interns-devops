@@ -1,3 +1,7 @@
+# Linux commands
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1678559818323/dda35682-419e-4fa6-b33c-2d59a4b47167.png)
+
+
 # File Operations
 1.	**ls**: List directory contents.
     - Example: **ls -l /home** (Lists detailed information about files and directories in /home)
