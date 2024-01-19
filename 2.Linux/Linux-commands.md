@@ -13,7 +13,7 @@
     - Example: **chmod 755 script.sh** (Sets read, write, and execute permissions for the owner, and read and execute permissions for group and others)
 7.	**chown**: Change file owner and group.
     - Example: **chown user:group file1.txt** (Changes the owner and group of file1.txt)
-
+-----------------------------------------------------------------------------------------------------------------------
 # System Information
 1.	**top**: Display dynamic real-time information about running processes.
     - Example: **top** (Opens the top interface)
@@ -25,7 +25,7 @@
     - Example: **uname -r** (Displays the kernel release)
 5.	**ps**: Report a snapshot of current processes.
     - Example: **ps -aux** (Shows detailed information about all running processes)
-
+--------------------------------------------------------------------------------------------------------------------------
 # Networking
 1.	**ping**: Send ICMP ECHO_REQUEST to network hosts.
     - Example: ping google.com (Pings google.com and outputs the result)
@@ -37,7 +37,7 @@
     - Example: scp file.txt user@192.168.1.10:/remote/directory (Copies file.txt to the remote directory on the server)
 5.	**netstat/ss**: Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.
     - Example: sudo netstat -ntpl (Shows all listening ports and their respective services)
-
+-----------------------------------------------------------------------------------------------------------------------------
 # File Editing and Processing
 1.	**nano/vim**: Text editors to modify files.
     - Example: **nano file.txt** or **vim file.txt** (Opens file.txt for editing)
@@ -45,8 +45,8 @@
     - Example: grep 'text' file.txt (Searches for 'text' in file.txt)
 3.	**sed**: Stream editor for filtering and transforming text.
     - Example: **sed 's/original/replacement/' file.txt** (Replaces the first occurrence of 'original' with 'replacement' in each line of file.txt)
-
-# Package Management (Debian/Ubuntu)
+-----------------------------------------------------------------------------------------------------------------------------
+# Package Management (Debian/Ubuntu - Centos)
 1.	**apt-get/apt**: APT package handling utility.
     - Example: **sudo apt-get update** (Updates the package list)
 2.	**yum**: yum package handling utility.
@@ -57,3 +57,4 @@
     - Example: **curl -fsSL https://get.docker.com -o install-docker.sh** ( Downloads the install-docker.sh file)
 5.  **wget**: web get
     - Example: **wget https://github.com/DL-Murali/lms/archive/refs/tags/v1.1.tar.gz** ( Downloads the v1.1.tar.gz file from the respected link)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
