@@ -1,7 +1,7 @@
 # Different Operating System
 ![image](https://pbs.twimg.com/media/FZiNhDUagAA4_0w.png)
 
-## Linux Share 
+## Why Linux 
 ![image](https://roon-community-uploads.s3.amazonaws.com/original/4X/5/5/0/550d9ddf89151038e21dc7e2f85f0454dfba0b8c.png)
 
 ## Linux Architecture
