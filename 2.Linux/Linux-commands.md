@@ -1,29 +1,29 @@
 # File Operations
-1.	ls: List directory contents.
-•	Example: ls -l /home (Lists detailed information about files and directories in /home)
-2.	cp: Copy files and directories.
-•	Example: cp file1.txt file2.txt (Copies file1.txt to file2.txt)
-3.	mv: Move or rename files and directories.
-•	Example: mv file1.txt /home/user/ (Moves file1.txt to the specified directory)
-4.	rm: Remove files or directories.
-•	Example: rm file1.txt (Removes file1.txt)
-5.	touch: Create an empty file or update the timestamp of a file.
-•	Example: touch newfile.txt (Creates an empty file named newfile.txt)
-6.	chmod: Change the file mode (permissions).
-•	Example: chmod 755 script.sh (Sets read, write, and execute permissions for the owner, and read and execute permissions for group and others)
-7.	chown: Change file owner and group.
-•	Example: chown user:group file1.txt (Changes the owner and group of file1.txt)
+1.	**ls**: List directory contents.
+  •	Example: ls -l /home (Lists detailed information about files and directories in /home)
+2.	**cp**: Copy files and directories.
+  •	Example: cp file1.txt file2.txt (Copies file1.txt to file2.txt)
+3.	**mv**: Move or rename files and directories.
+  •	Example: mv file1.txt /home/user/ (Moves file1.txt to the specified directory)
+4.	**rm**: Remove files or directories.
+  •	Example: rm file1.txt (Removes file1.txt)
+5.	**touch**: Create an empty file or update the timestamp of a file.
+  •	Example: touch newfile.txt (Creates an empty file named newfile.txt)
+6.	**chmod**: Change the file mode (permissions).
+  •	Example: chmod 755 script.sh (Sets read, write, and execute permissions for the owner, and read and execute permissions for group and others)
+7.	**chown**: Change file owner and group.
+  •	Example: chown user:group file1.txt (Changes the owner and group of file1.txt)
 
 # System Information
-1.	top: Display dynamic real-time information about running processes.
+1.	**top**: Display dynamic real-time information about running processes.
 •	Example: top (Opens the top interface)
-2.	df: Report file system disk space usage.
+2.	**df**: Report file system disk space usage.
 •	Example: df -h (Displays disk space in human-readable format)
-3.	free: Display amount of free and used memory in the system.
+3.	**free**: Display amount of free and used memory in the system.
 •	Example: free -m (Shows memory usage in megabytes)
-4.	uname: Show system information.
+4.	**uname**: Show system information.
 •	Example: uname -r (Displays the kernel release)
-5.	ps: Report a snapshot of current processes.
+5.	**ps**: Report a snapshot of current processes.
 •	Example: ps -aux (Shows detailed information about all running processes)
 
 # Networking
