@@ -1,11 +1,17 @@
 # DevOps Course
 ## 1. Fundamentals
 - SDLC
+- Waterfall Methodology
+- Agile Methodology
 - Application Tiers
 ## 2. Linux 
+- Different Operating Systems
+- Why Linux
+- Linux Architecture
+- Linux Distributions
+- Linux File System
 - Linux commands
-- File Ops
-- Bash Shell
+- Shell
 ## 3. Version Control System
 - Git & GitHub
 - Git Workflow
