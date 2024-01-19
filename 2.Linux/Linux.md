@@ -1,4 +1,4 @@
-# Linux vs Other Os
+# Different Operating System
 ![image](https://pbs.twimg.com/media/FZiNhDUagAA4_0w.png)
 
 ## Linux Share 
