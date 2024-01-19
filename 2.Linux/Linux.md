@@ -9,6 +9,9 @@
 ## Linux Distros ( Distributions )
 ![image](https://5.imimg.com/data5/SELLER/Default/2023/3/293388954/RJ/AA/QF/93347989/linux-support-service-500x500.jpg)
 
+## Market Share of Linux Distros
+![image](https://truelist.co/wp-content/uploads/2022/01/Top-Linux-Subcategories-by-Market_Share.jpg)
+
 ## Linux File system
 ![image](https://miro.medium.com/v2/resize:fit:1358/0*CzFrDUC8N23QWRkI)
 
