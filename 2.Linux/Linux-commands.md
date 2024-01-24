@@ -5,6 +5,10 @@
 # File Operations
 1.	**ls**: List directory contents.
     - Example: **ls -l /home** (Lists detailed information about files and directories in /home)
+  
+| command name | command description | Example |
+| --- | --- | --- |
+| ls | lists files in directory | ls -a |
 
 2.	**cp**: Copy files and directories.
     - Example: **cp file1.txt file2.txt** (Copies file1.txt to file2.txt)
