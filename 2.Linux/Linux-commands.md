@@ -60,6 +60,15 @@
     - Example: **ps -aux** (Shows detailed information about all running processes)
 --------------------------------------------------------------------------------------------------------------------------
 # Networking
+
+| command name | command description | Example |
+| --- | --- | --- |
+| ping | checking the reachability | ping google.com |
+| ifconfig | Configure or display network interface parameters | ifconfig eth0 | 
+| ssh | OpenSSH remote login client | ssh -i ammulu-key.pem ubuntu@192.168.1.10 |
+| scp | remote file copy program | scp file.txt user@192.168.1.10:~/ | 
+| netstat/ss | Print network connections | sudo netstat -ntpl |
+
 1.	**ping**: Send ICMP ECHO_REQUEST to network hosts.
     - Example: **ping google.com** (Pings google.com and outputs the result)
 
@@ -71,7 +80,7 @@
     - Example: **ssh -i ammulu-key.pem ubuntu@192.168.1.10** (SSH into the server at 192.168.1.10 with username and pem key)
 
 4.	**scp**: Secure copy (remote file copy program).
-    - Example: scp file.txt user@192.168.1.10:/remote/directory (Copies file.txt to the remote directory on the server)
+    - Example: scp file.txt user@192.168.1.10:~/remote/directory (Copies file.txt to the remote directory on the server)
 
 5.	**netstat/ss**: Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.
     - Example: **sudo netstat -ntpl** (Shows all listening ports and their respective services)
