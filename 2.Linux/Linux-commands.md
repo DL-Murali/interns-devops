@@ -32,10 +32,18 @@
 
 ![image](https://miro.medium.com/v2/resize:fit:804/0*fcEc9S0TW0J6sUml.png)
 
-<! -- 7.	**chown**: Change file owner and group. -->
-    - Example: **chown user:group file1.txt** (Changes the owner and group of file1.txt) -->
+7.	**chown**: Change file owner and group.
+    - Example: **chown user:group file1.txt** (Changes the owner and group of file1.txt)
 -----------------------------------------------------------------------------------------------------------------------
 # System Information
+| command name | command description | Example |
+| --- | --- | --- |
+| top | Opens the top interface | top |
+| df | Report file system disk space usage | df -h |
+| free | Display amount of free and used memory in the system | free -m |
+| uname | Show system information. | uname -r |
+| ps | Report a snapshot of current processes | ps -aux |
+
 1.	**top**: Display dynamic real-time information about running processes.
     - Example: **top** (Opens the top interface)
 
