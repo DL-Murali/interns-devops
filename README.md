@@ -20,41 +20,41 @@
 ## 4. SonarQube & Nexus
 - Sonar Analysis
 - Nexus Artifacts
-## Atlassian Products
+## 5. Atlassian Products
 - Jira Boards - Planning and Ticketing
 - BitBucket - VCS [ code storage]
 - Confluence - Project Documentaion
 - ChatGPT - AI tool usage 
-## 5. LMS EC2 Deployment
+## 6. LMS EC2 Deployment
 - Application Stack
 - Database Deployment
 - Backend Deployment
 - Frontend Deployment
-## 6. Docker 
+## 7. Docker 
 - Dockerfile
 - Docker networks
 - Dockerizing LMS
 - Docker Volumes
-## 7. Kubernetes
+## 8. Kubernetes
 - LMS Minikube Deployment
 - LMS EKS Deployment
 - Kubernetes Workspaces
-## 8. Terraform
+## 9. Terraform
 - EC2 Launch with Terraform
 - VPC Creation
 - LMS Deployment with Terraform
 - Terraform Cloud
-## 9. Ansible
+## 10. Ansible
 - Ansible Modules
 - Ad-hoc commands
 - Ansible Inventory
 - Play Books
-## 10. Jenkins
+## 11. Jenkins
 - Jenkins Setup
 - Jobs
 - Build Triggers
 - Jenkins Pipeline
-## 11. SRE
+## 12. SRE
 - Prometheus
 - Grafana
 - Node Exporter
