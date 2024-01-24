@@ -2,13 +2,18 @@
 ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1678559818323/dda35682-419e-4fa6-b33c-2d59a4b47167.png)
 
 
-# File Operations
-1.	**ls**: List directory contents.
-    - Example: **ls -l /home** (Lists detailed information about files and directories in /home)
-  
+# File Operations  
 | command name | command description | Example |
 | --- | --- | --- |
-| ls | lists files in directory | ls -a |
+| ls | List directory contents | ls -a |
+| cp | Copy files and directories | cp file1.txt file2.txt |
+| mv | Move or rename files and directories | mv file1.txt /home/$USER/ |
+| rm | Remove files or directories | rm file1.txt |
+| touch | Create an empty file | touch newfile.txt |
+| chmod | Change the file mode (permissions) | chmod 755 script.sh |
+
+1.	**ls**: List directory contents.
+    - Example: **ls -l /home** (Lists detailed information about files and directories in /home)
 
 2.	**cp**: Copy files and directories.
     - Example: **cp file1.txt file2.txt** (Copies file1.txt to file2.txt)
