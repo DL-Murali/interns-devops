@@ -10,6 +10,9 @@
 | mv | Move or rename files and directories | mv file1.txt /home/$USER/ |
 | rm | Remove files or directories | rm file1.txt |
 | touch | Create an empty file | touch newfile.txt |
+| clear | to clear the screen | clear |
+| mkdir | to make/create the empty directories | mkdir dummy |
+| history | to get the history of the commands that used/executed | history |
 | chmod | Change the file mode (permissions) | chmod 755 script.sh |
 
 1.	**ls**: List directory contents.
