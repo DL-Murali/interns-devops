@@ -35,8 +35,6 @@
 
 ![image](https://miro.medium.com/v2/resize:fit:804/0*fcEc9S0TW0J6sUml.png)
 
-7.	**chown**: Change file owner and group.
-    - Example: **chown user:group file1.txt** (Changes the owner and group of file1.txt)
 -----------------------------------------------------------------------------------------------------------------------
 # System Information
 | command name | command description | Example |
