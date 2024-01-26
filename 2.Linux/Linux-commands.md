@@ -96,7 +96,9 @@
     - Example: **grep 'text' file.txt** (Searches for 'text' in file.txt)
 
 3.	**sed**: Stream editor for filtering and transforming text.
-    - Example: **sed 's/original/replacement/' file.txt** (Replaces the first occurrence of 'original' with 'replacement' in each line of file.txt)
+    - Example: **sed 's/original/replacement/' file.txt** (Replaces the first occurrence of 'original' with 'replacement' in each line of file.txt but won't save )
+    - example: **sed -i 's/murali/krishna/' sed.txt**    ( here it will replace the original text and saves)  
+
 -----------------------------------------------------------------------------------------------------------------------------
 # Package Management (Debian/Ubuntu - Centos)
 1.	**apt-get/apt**: APT package handling utility.
